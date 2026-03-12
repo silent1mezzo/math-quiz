@@ -28,7 +28,16 @@ Decimal phases appear between their surrounding integers in numeric order.
   3. After submitting an answer, the app immediately shows a visual color response and plays a distinct sound — correct answers feel rewarding, incorrect answers feel clearly different
   4. The elapsed session time and current score are both visible throughout the session
   5. A fast correct answer awards bonus points, creating a visible score difference compared to a slow correct answer
-**Plans**: TBD
+**Plans**: 7 plans
+
+Plans:
+- [ ] 01-00-PLAN.md — Test stub scaffolding (Wave 0: all failing stubs before implementation)
+- [ ] 01-01-PLAN.md — Project foundation: delete SpriteKit, SwiftUI App, SwiftData schema, PrivacyInfo, Pow
+- [ ] 01-02-PLAN.md — Models and QuestionGenerator: MathOperation, MathQuestion, GameConfig, FeedbackState
+- [ ] 01-03-PLAN.md — GameViewModel: @Observable session state, scoring, timer, answer validation
+- [ ] 01-04-PLAN.md — SoundPlayer: AVAudioPlayer service with correct/incorrect audio assets
+- [ ] 01-05-PLAN.md — Leaf views: NumberPadView, QuestionView, ScoreHeaderView
+- [ ] 01-06-PLAN.md — Screens and navigation: GameView, OperationPickerView, ContentView wiring + human verify
 
 ### Phase 2: Session Configuration and Summary
 **Goal**: Kids (and parents) can tune what gets practiced before a session and review exactly what was missed after
@@ -61,6 +70,6 @@ Phases execute in numeric order: 1 → 2 → 3
 
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
-| 1. Foundation and Core Game Loop | 0/TBD | Not started | - |
+| 1. Foundation and Core Game Loop | 0/7 | Not started | - |
 | 2. Session Configuration and Summary | 0/TBD | Not started | - |
 | 3. Persistence, Streaks, and Notifications | 0/TBD | Not started | - |
