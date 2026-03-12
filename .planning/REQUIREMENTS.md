@@ -84,6 +84,10 @@
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
+| TECH-01 | Phase 1 | Pending |
+| TECH-02 | Phase 1 | Pending |
+| TECH-03 | Phase 1 | Pending |
+| TECH-04 | Phase 1 | Pending |
 | GAME-01 | Phase 1 | Pending |
 | GAME-02 | Phase 1 | Pending |
 | GAME-03 | Phase 1 | Pending |
@@ -93,24 +97,20 @@
 | GAME-07 | Phase 1 | Pending |
 | GAME-08 | Phase 1 | Pending |
 | GAME-09 | Phase 1 | Pending |
-| SESS-01 | Phase 1 | Pending |
-| SESS-02 | Phase 1 | Pending |
-| SESS-03 | Phase 1 | Pending |
-| SESS-04 | Phase 1 | Pending |
-| SUMM-01 | Phase 1 | Pending |
-| SUMM-02 | Phase 1 | Pending |
-| SUMM-03 | Phase 1 | Pending |
-| STAT-01 | Phase 2 | Pending |
-| STAT-02 | Phase 2 | Pending |
-| STAT-03 | Phase 2 | Pending |
-| STAT-04 | Phase 2 | Pending |
-| STAT-05 | Phase 2 | Pending |
-| NOTF-01 | Phase 2 | Pending |
-| NOTF-02 | Phase 2 | Pending |
-| TECH-01 | Phase 1 | Pending |
-| TECH-02 | Phase 1 | Pending |
-| TECH-03 | Phase 1 | Pending |
-| TECH-04 | Phase 1 | Pending |
+| SESS-01 | Phase 2 | Pending |
+| SESS-02 | Phase 2 | Pending |
+| SESS-03 | Phase 2 | Pending |
+| SESS-04 | Phase 2 | Pending |
+| SUMM-01 | Phase 2 | Pending |
+| SUMM-02 | Phase 2 | Pending |
+| SUMM-03 | Phase 2 | Pending |
+| STAT-01 | Phase 3 | Pending |
+| STAT-02 | Phase 3 | Pending |
+| STAT-03 | Phase 3 | Pending |
+| STAT-04 | Phase 3 | Pending |
+| STAT-05 | Phase 3 | Pending |
+| NOTF-01 | Phase 3 | Pending |
+| NOTF-02 | Phase 3 | Pending |
 
 **Coverage:**
 - v1 requirements: 27 total
@@ -119,4 +119,4 @@
 
 ---
 *Requirements defined: 2026-03-12*
-*Last updated: 2026-03-12 after initial definition*
+*Last updated: 2026-03-12 after roadmap creation — updated phase mappings (3-phase structure)*
